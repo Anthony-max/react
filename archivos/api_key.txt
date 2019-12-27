@@ -1,0 +1,3 @@
+API KEY c275a5ef128d1326a8d877d961686ba7
+
+https://samples.openweathermap.org/data/2.5/weather?q=[location]&appid=c275a5ef128d1326a8d877d961686ba7
