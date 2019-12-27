@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       Weather App (aplicacion del clima)
-      <WeatherLocation />
+      <WeatherLocation city="Buenos Aires,ar" />
     </div>
   );
 }
