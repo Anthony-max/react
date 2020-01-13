@@ -44,7 +44,7 @@ class WeatherLocation extends Component {
 
             const newWeather = transformWeather(data);
             console.log(newWeather);
-            debugger;
+            
             this.setState({
                 data: newWeather
             });
